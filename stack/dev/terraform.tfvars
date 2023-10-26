@@ -1,0 +1,5 @@
+cidr_vpc = "10.0.0.0/16"
+cidr_pub1 = "10.0.1.0/24"
+cidr_pub2 = "10.0.16.0/24"
+ami = "ami-0dbc3d7bc646e8516"
+type = "t2.micro"
